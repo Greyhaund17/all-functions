@@ -4,13 +4,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.util.concurrent.TimeUnit;
-
 public class FirstTest {
     @Test
     public void testSearchGoogle() {
         WebDriver driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+
         //driver.get("http://google.com");
         driver.navigate().to("http://google.com");
         String window= driver.getWindowHandle();
