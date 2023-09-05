@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a54b6290-fb4d-4675-b1a1-f52249ef2739" name="Changes" comment="mangae timeout">
+    <list default="true" id="a54b6290-fb4d-4675-b1a1-f52249ef2739" name="Changes" comment="navigates to">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
@@ -29,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Youtube.automation" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693852124752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="navigates to">
+      <created>1693935195439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693935195439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +169,7 @@
     <MESSAGE value="Xpath input.click" />
     <MESSAGE value="bacahayt u voch bacahayt spasumner" />
     <MESSAGE value="mangae timeout" />
-    <option name="LAST_COMMIT_MESSAGE" value="mangae timeout" />
+    <MESSAGE value="navigates to" />
+    <option name="LAST_COMMIT_MESSAGE" value="navigates to" />
   </component>
 </project>

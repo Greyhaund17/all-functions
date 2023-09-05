@@ -13,6 +13,8 @@ public class FirstTest {
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         //driver.get("http://google.com");
         driver.navigate().to("http://google.com");
+        String window= driver.getWindowHandle();
+        System.out.println("window -> " + window);
         WebElement searchBox = driver.findElement(By.name("q"));
         searchBox.sendKeys("Call of Duty");
         searchBox.submit();
